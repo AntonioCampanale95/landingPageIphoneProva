@@ -1,0 +1,31 @@
+.bgCustomNavbar {
+    background: linear-gradient(white, grey);
+}
+
+#h1Custom {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 5.5em;
+}
+
+.centered{
+    text-align: center;
+}
+
+
+.bg-with-text {
+    background-image: url('/Multimedia/sfondoLandingPage.png');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+.centrato {
+    display: flex;
+    justify-content: center;
+}
+
