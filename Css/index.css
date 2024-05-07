@@ -13,7 +13,7 @@
 
 
 .bg-with-text {
-    background-image: url('/Multimedia/sfondoLandingPage.png');
+    background-image: url('Multimedia/sfondoLandingPage.png');
     background-size: cover;
     background-position: center;
     height: 500px;
